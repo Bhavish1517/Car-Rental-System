@@ -1,0 +1,7 @@
+1001;Alice;019283746;address
+1002;Bob;123409876;mansionroad
+1003;Charlie;098765432;random
+1004;David;246897531;abcde
+1005;Tim;135798642;orion
+1006;Smith;987654321;newbel
+1007;Wayne;123456789;seattle
